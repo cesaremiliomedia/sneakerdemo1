@@ -28,13 +28,13 @@
     "gatsby-transformer-sharp": "^2.5.12",
     "jquery": "^3.5.1",
     "node-sass": "^4.14.1",
+    "popper.js": "^1.16.1",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
     "react-flip-toolkit": "^7.0.12",
     "react-helmet": "^6.1.0",
     "react-spring": "^8.0.27",
     "react-visibility-sensor": "^5.1.1",
-    "popper.js": "^1.16.1",
     "styled-components": "^5.1.1"
   },
   "devDependencies": {
