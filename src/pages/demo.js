@@ -46,7 +46,7 @@ export default class Page extends Component {
             style={{
               marginTop: "0px",
               color: "black",
-              fontFamily: "Cooper Black Regular",
+              fontFamily: "Cooper Black",
             }}
           >
             Bape | Supremes | ASSC | Yeezy
@@ -86,7 +86,7 @@ export default class Page extends Component {
                         style={{
                           lineHeight: "38px",
                           marginTop: "0px",
-                          fontFamily: "cooper black",
+                          fontFamily: "Cooper Black",
                           fontSize: "44px",
                           color: "black",
                           margin: "auto",
