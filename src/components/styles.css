@@ -1,17 +1,16 @@
 @font-face {
   font-family: "Cooper Black";
-
-  src: url("/sneakerdemo1/static/cooper.ttf") format("truetype");
-  src: url("/sneakerdemo1/static/cooper.woff") format("woff");
-  src: url("/sneakerdemo1/static/cooper.woff2") format("woff2");
-  src: url("/sneakerdemo1/static/cooper.svg") format("svg");
-}
-@font-face {
-  font-family: "Cooper Black Regular";
-  font-style: normal;
-  font-weight: normal;
-  src: local("Cooper Black Regular"),
-    url("/sneakerdemo1/static/COOPBL.woff") format("woff");
+  src: url("//db.onlinewebfonts.com/t/3cc05eb29887891767af19710a02106d.eot");
+  src: url("//db.onlinewebfonts.com/t/3cc05eb29887891767af19710a02106d.eot?#iefix")
+      format("embedded-opentype"),
+    url("//db.onlinewebfonts.com/t/3cc05eb29887891767af19710a02106d.woff2")
+      format("woff2"),
+    url("//db.onlinewebfonts.com/t/3cc05eb29887891767af19710a02106d.woff")
+      format("woff"),
+    url("//db.onlinewebfonts.com/t/3cc05eb29887891767af19710a02106d.ttf")
+      format("truetype"),
+    url("//db.onlinewebfonts.com/t/3cc05eb29887891767af19710a02106d.svg#Cooper Black")
+      format("svg");
 }
 
 .staggered-list-content {
