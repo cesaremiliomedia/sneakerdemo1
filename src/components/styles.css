@@ -6,14 +6,8 @@
   src: url("/sneakerdemo1/static/cooper.woff2") format("woff2");
   src: url("/sneakerdemo1/static/cooper.svg") format("svg");
 }
-@font-face {
-  font-family: "Cooper Black Regular";
-  font-style: normal;
-  font-weight: normal;
-  src: local("Cooper Black Regular"),
-    url("/sneakerdemo1/static/COOPBL.woff") format("woff");
-}
 
+@import url("https://db.onlinewebfonts.com/c/3cc05eb29887891767af19710a02106d?family=Cooper+Black");
 .staggered-list-content {
   width: 100%;
   /* margin: 2rem auto; */

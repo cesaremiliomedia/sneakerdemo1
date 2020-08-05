@@ -35,7 +35,7 @@ export default class Page extends Component {
           style={{ marginBottom: "0px" }}
           width="100%"
           direction="right"
-          scrollamount="20"
+          scrollamount="15"
         >
           <h1
             style={{
