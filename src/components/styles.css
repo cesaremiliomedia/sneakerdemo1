@@ -7,7 +7,7 @@
   src: url("/sneakerdemo1/static/cooper.svg") format("svg");
   src: url("../../static/fonts/cooper.woff") format("woff");
 
-  src: url("../../static/fonts/cooper.woff2") format("woff2");
+  src: url("../../static/cooper.woff2") format("woff2");
 }
 
 .staggered-list-content {
