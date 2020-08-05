@@ -4,6 +4,13 @@
   src: url("/sneakerdemo1/static/cooper.ttf") format("truetype");
   src: url("/sneakerdemo1/static/cooper.woff") format("woff");
 }
+@font-face {
+  font-family: "Cooper Black Regular";
+  font-style: normal;
+  font-weight: normal;
+  src: local("Cooper Black Regular"),
+    url("/sneakerdemo1/static/COOPBL.woff") format("woff");
+}
 .staggered-list-content {
   width: 100%;
   /* margin: 2rem auto; */

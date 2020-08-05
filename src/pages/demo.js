@@ -46,7 +46,7 @@ export default class Page extends Component {
             style={{
               marginTop: "0px",
               color: "black",
-              fontFamily: "cooper black",
+              fontFamily: "Cooper Black Regular",
             }}
           >
             Bape | Supremes | ASSC | Yeezy
