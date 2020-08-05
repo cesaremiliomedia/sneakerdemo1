@@ -7,10 +7,6 @@
   src: url("/sneakerdemo1/static/cooper.svg") format("svg");
   src: url("//db.onlinewebfonts.com/t/3cc05eb29887891767af19710a02106d.woff2")
       format("woff2"),
-    url("//db.onlinewebfonts.com/t/3cc05eb29887891767af19710a02106d.woff")
-      format("woff"),
-    url("//db.onlinewebfonts.com/t/3cc05eb29887891767af19710a02106d.ttf")
-      format("truetype"),
     url("//db.onlinewebfonts.com/t/3cc05eb29887891767af19710a02106d.svg#Cooper Black")
       format("svg");
 }
