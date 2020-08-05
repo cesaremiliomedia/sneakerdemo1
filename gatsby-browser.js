@@ -11,3 +11,4 @@ import "jquery/dist/jquery.min.js"
 import "popper.js/dist/popper.min"
 import "bootstrap/dist/js/bootstrap.min.js"
 import "./src/components/styles.css"
+import url('https://db.onlinewebfonts.com/c/3cc05eb29887891767af19710a02106d?family=Cooper+Black');
