@@ -1,8 +1,9 @@
 @font-face {
-  font-family: "cooper black";
+  font-family: "Cooper Black";
 
   src: url("/sneakerdemo1/static/cooper.ttf") format("truetype");
   src: url("/sneakerdemo1/static/cooper.woff") format("woff");
+  src: url("/sneakerdemo1/static/cooper.woff2") format("woff2");
   src: url("/sneakerdemo1/static/cooper.svg") format("svg");
 }
 @font-face {
