@@ -1,6 +1,6 @@
 @font-face {
   font-family: "cooper black";
-  src: url("/sneakerdemo1/static/cooper.otf");
+
   src: url("/sneakerdemo1/static/cooper.ttf") format("truetype");
   src: url("/sneakerdemo1/static/cooper.woff") format("woff");
 }
@@ -15,7 +15,8 @@
   font-family: "Cooper Black Regular";
   font-style: normal;
   font-weight: normal;
-  src: local("Cooper Black Regular"), url("COOPBL.woff") format("woff");
+  src: local("Cooper Black Regular"),
+    url(".../static/COOPBL.woff") format("woff");
 }
 .staggered-list-content {
   width: 100%;
