@@ -2,6 +2,7 @@
   font-family: "cooper black";
   src: url("/sneakerdemo1/static/cooper.otf");
   src: url("/sneakerdemo1/static/cooper.ttf") format("truetype");
+  src: url("/sneakerdemo1/static/cooper.woff") format("woff");
 }
 .staggered-list-content {
   width: 100%;
