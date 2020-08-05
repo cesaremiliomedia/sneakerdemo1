@@ -1,7 +1,7 @@
 @font-face {
   font-family: "cooper black";
-  src: url("/sneakerdemo1/static/cooper.otf") format("truetype");
-  src: url("/sneakerdemo1/static/cooperblack.ttf") format("truetype");
+  src: url("/sneakerdemo1/static/cooper.otf");
+  src: url("/sneakerdemo1/static/cooper.ttf") format("truetype");
 }
 .staggered-list-content {
   width: 100%;
@@ -207,4 +207,7 @@
 h1 {
   text-shadow: 2px 2px 5px black, 0 0 5px #0000ff;
   text-align: center;
+  font-family: cooper-black-std, serif;
+  font-style: normal;
+  font-weight: 400;
 }
