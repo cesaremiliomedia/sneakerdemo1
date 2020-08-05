@@ -2,11 +2,9 @@
   font-family: "Cooper Black";
 
   src: url("/sneakerdemo1/static/cooper.ttf") format("truetype");
-  src: url("/sneakerdemo1/static/cooper.woff") format("woff");
-  src: url("/sneakerdemo1/static/cooper.woff2") format("woff2");
-  src: url("/sneakerdemo1/static/cooper.svg") format("svg");
+  src: url("//db.onlinewebfonts.com/t/3cc05eb29887891767af19710a02106d.woff2")
+    format("woff2");
 }
-@import url("https://db.onlinewebfonts.com/c/3cc05eb29887891767af19710a02106d?family=Cooper+Black");
 
 .staggered-list-content {
   width: 100%;
