@@ -1,11 +1,3 @@
-@font-face {
-  font-family: "Cooper Black";
-
-  src: url("/sneakerdemo1/static/cooper.ttf") format("truetype");
-  src: url("//db.onlinewebfonts.com/t/3cc05eb29887891767af19710a02106d.woff2")
-    format("woff2");
-}
-
 .staggered-list-content {
   width: 100%;
   /* margin: 2rem auto; */
