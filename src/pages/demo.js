@@ -1,15 +1,10 @@
 import React, { Component } from "react"
 import Layout from "../components/layout2"
-import "../components/styles.css"
 import InfoComp from "../components/infoComp"
 import InfoComp2 from "../components/infoComp2"
-
 import SlideShow from "../components/SlideShowShoeStore"
-
 import VisibilitySensor from "react-visibility-sensor"
-
 import { Spring } from "react-spring/renderprops"
-import "../assets/scss/main.scss"
 import { Products, shipInfo, storeinfo } from "../products/shoes/ShoeStoreInfo"
 import ShoeMap from "../components/SneakerStore/productCarusel"
 
