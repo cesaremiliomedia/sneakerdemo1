@@ -203,24 +203,24 @@ export default class Page extends Component {
               <div className="card-body text-secondary d-flex flex-column">
                 <div className="row mt-2">
                   <div className="col d-flex text-center flex-column ">
-                    <a className="btn" href="#">
+                    <a className="abs btn" href="#">
                       Clothing
                     </a>
-                    <a className="btn" href="#">
+                    <a className="abs btn" href="#">
                       Footwear
                     </a>
-                    <a className="btn" href="#">
+                    <a className="abs btn" href="#">
                       Bags
                     </a>
                   </div>
-                  <div className="col d-flex text-center flex-column  ">
-                    <a className="btn" href="#">
+                  <div className="col d-flex text-center flex-column">
+                    <a className="abs btn" href="#">
                       Hats
                     </a>
-                    <a className="btn" href="#">
+                    <a className="abs btn" href="#">
                       Backpacks
                     </a>
-                    <a className="btn" href="#">
+                    <a className="abs btn" href="#">
                       Sale
                     </a>
                   </div>{" "}
@@ -262,7 +262,7 @@ export default class Page extends Component {
               aria-labelledby="headingTwo"
               data-parent="#accordion"
             >
-              <div className="p-5">
+              <div className="abs p-5">
                 <a href="https://www.google.com/maps/place/1015+Market+St,+San+Francisco,+CA+94103/data=!4m2!3m1!1s0x80858084fcddfd51:0x422525cfec192890?sa=X&ved=2ahUKEwi-6NTBmffqAhUDIKwKHXx3DGwQ8gEwAHoECAsQAQ">
                   1000 San Marcos St. Austin, Tx
                 </a>
