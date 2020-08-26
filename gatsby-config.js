@@ -16,5 +16,18 @@ module.exports = {
     `gatsby-plugin-sharp`,
     "gatsby-plugin-sass",
     `gatsby-plugin-react-helmet`,
+    {
+      resolve: `gatsby-plugin-google-fonts`,
+      options: {
+        fonts: [
+          `Titan One`,
+          `Sacramento`,
+          `Indie Flower`,
+          `Chango`,
+          // you can also specify font weights and styles
+        ],
+        display: "swap",
+      },
+    },
   ],
 }

@@ -219,3 +219,24 @@ h1 {
   font-family: "Source Sans Pro";
   font-weight: 600;
 }
+[data-reach-dialog-overlay] {
+  background: hsla(0, 0%, 0%, 0.33);
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  width: 375px;
+  overflow: auto;
+  margin: auto;
+  z-index: 1000;
+}
+
+[data-reach-dialog-content] {
+  overflow: scroll;
+  width: 375px !important;
+  margin: auto !important;
+  background: white;
+  padding: 2rem;
+  outline: none;
+}
