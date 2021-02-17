@@ -132,7 +132,7 @@ export default class Page extends Component {
                           marginTop: "0px",
                         }}
                       >
-                        ssAuthenticity Guaranteed
+                        Authenticity Guaranteed
                       </h1>
                       <p
                         style={{
